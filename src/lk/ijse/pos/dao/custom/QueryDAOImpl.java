@@ -1,4 +1,4 @@
-package lk.ijse.pos.dao.custom.impl;
+package lk.ijse.pos.dao.custom;
 
 import lk.ijse.pos.dao.CrudUtil;
 import lk.ijse.pos.dao.QueryDAO;
