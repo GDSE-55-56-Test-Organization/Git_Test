@@ -25,7 +25,7 @@ public class BoFactory {
     public <T> T getBo(BOType type) {
         switch (type) {
             case CUSTOMER:
-                return (T) new CustomerBOImpl();
+                return null;
             case ITEM:
                 return (T) new ItemBOImpl();
             case ORDER:
