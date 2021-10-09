@@ -20,6 +20,7 @@ public class MainFormController {
     }
 
     public void openOrderForm(MouseEvent mouseEvent) {
+        System.out.println("Order");
     }
 
     public void openPlaceOrderForm(MouseEvent mouseEvent) {
