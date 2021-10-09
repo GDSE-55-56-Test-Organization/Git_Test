@@ -24,6 +24,7 @@ public class MainFormController {
     }
 
     public void openPlaceOrderForm(MouseEvent mouseEvent) {
+        System.out.println("orderDetail");
     }
 
     private void setUI(String location) throws IOException {
